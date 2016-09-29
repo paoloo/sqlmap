@@ -1,5 +1,7 @@
 paoloo/sqlmap
 =============
+[![GitHub issues](https://img.shields.io/github/issues/paoloo/dockered-sqlmap.svg)](https://github.com/paoloo/dockered-sqlmap/issues)
+[![Docker Pulls](https://img.shields.io/docker/pulls/paoloo/sqlmap.svg)](https://hub.docker.com/r/paoloo/sqlmap/)
 
 Docker image for [sqlmap](http://sqlmap.org/)
 
