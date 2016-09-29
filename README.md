@@ -5,6 +5,8 @@ paoloo/sqlmap
 
 Docker image for [sqlmap](http://sqlmap.org/)
 
+Created using [Alpine linux](https://hub.docker.com/_/alpine/), the current version of this image is 21MB.
+
 Usage with my image from dockerhub:
 
 		$ docker run --rm -it -v /tmp/sqlmap:/root/.sqlmap/ paoloo/sqlmap --url www.example.com/?id=1
